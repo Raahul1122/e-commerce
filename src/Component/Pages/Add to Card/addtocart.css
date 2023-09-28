@@ -1,0 +1,27 @@
+.add-container {
+  top: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  text-align: right;
+  margin-right: auto;
+  z-index: 999;
+  background-color: #e9ecef;
+  width: 300px !important;
+  transition: all 0.3s ease-in-out;
+  height: 100vh;
+  position: absolute;
+}
+.add-container .icon {
+  position: absolute;
+  right: 10px;
+  color: #000000;
+  font-size: 22px;
+  top: 10px;
+}
+
+.closed {
+  width: 300px;
+  transition: all 0.3s ease-in-out;
+  right: -300px;
+}/*# sourceMappingURL=addtocart.css.map */

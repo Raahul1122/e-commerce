@@ -1,0 +1,20 @@
+.nav1{
+    display: flex !important;
+    justify-content: center !important;
+    padding: 10px 0px;
+    ul{
+        li{
+            padding: 0px 10px;
+            font-weight: 400;
+            font-size: 18px;
+          a{
+            color: #111111 !important;
+            &:hover{
+                color: aqua !important;
+            }
+           
+          }
+        
+        }
+    }
+}

@@ -1,0 +1,16 @@
+.nav1 {
+  display: flex !important;
+  justify-content: center !important;
+  padding: 10px 0px;
+}
+.nav1 ul li {
+  padding: 0px 10px;
+  font-weight: 400;
+  font-size: 18px;
+}
+.nav1 ul li a {
+  color: #111111 !important;
+}
+.nav1 ul li a:hover {
+  color: aqua !important;
+}/*# sourceMappingURL=navbar.css.map */
